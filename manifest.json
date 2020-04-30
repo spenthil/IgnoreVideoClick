@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Ignore Video Click",
+    "description": "Ignores clicks on video.",
+    "version": "1",
+    "author": "Sen Palanisami",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": [ "index.js" ],
+            "run_at": "document_end"
+        }
+    ]
+}
