@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Ignore Video Clicks",
     "description": "Ignores clicks on video.",
-    "version": "1",
+    "version": "1.0",
     "author": "Sen Palanisami",
     "content_scripts": [
         {
