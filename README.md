@@ -1,1 +1,1 @@
-# IgnoreVideoClick
+# IgnoreVideoClicks
